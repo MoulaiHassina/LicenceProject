@@ -1,0 +1,56 @@
+\contentsline {chapter}{Introduction g\IeC {\'e}n\IeC {\'e}rale}{1}{chapter*.5}
+\contentsline {chapter}{\numberline {1}\IeC {\'E}tat de l'art}{2}{chapter.1}
+\contentsline {section}{\numberline {1}Vision artificielle:}{2}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}L'interaction homme machine}{2}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.2}D\IeC {\'e}finition de la Vision Artificielle}{2}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.3}Syst\IeC {\`e}mes de Vision Artificielle}{3}{subsection.1.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Les syst\IeC {\`e}mes de vision bidimensionnels}{3}{subsubsection.1.1.3.1}
+\contentsline {subsubsection}{\numberline {1.3.2}Les syst\IeC {\`e}mes de vision tridimensionnels}{3}{subsubsection.1.1.3.2}
+\contentsline {paragraph}{\numberline {1.3.2.1}Syst\IeC {\`e}mes de vision tridimensionnels actifs}{3}{paragraph.1.1.3.2.1}
+\contentsline {paragraph}{\numberline {1.3.2.2}Syst\IeC {\`e}mes de vision tridimensionnels passifs}{3}{paragraph.1.1.3.2.2}
+\contentsline {section}{\numberline {2}Reconnaissance et d\IeC {\'e}tection d'objets:}{3}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Approche 2D}{4}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Approche g\IeC {\'e}om\IeC {\'e}trique}{4}{subsection.1.2.2}
+\contentsline {section}{\numberline {3}Images de profondeurs et applications}{5}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Pr\IeC {\'e}sentation de la KINECT}{5}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Composants de la KINECT}{5}{subsection.1.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Une cam\IeC {\'e}ra RGB (Red Green Blue)}{6}{subsubsection.1.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Un capteur de profondeur}{6}{subsubsection.1.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Un microphone}{7}{subsubsection.1.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Une base motoris\IeC {\'e}e}{7}{subsubsection.1.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Light Emiting Diod}{7}{subsubsection.1.3.2.5}
+\contentsline {subsection}{\numberline {3.3}Exemples d'application du capteur KINECT}{8}{subsection.1.3.3}
+\contentsline {subsubsection}{\numberline {3.3.1}Dessin en air}{8}{subsubsection.1.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.2}Le Mur Tactile}{9}{subsubsection.1.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.3}Estimation de la direction du regard gr\IeC {\^a}ce a la Kinect}{10}{subsubsection.1.3.3.3}
+\contentsline {section}{\numberline {4}Conclusion}{11}{section.1.4}
+\contentsline {chapter}{\numberline {2}Conception}{12}{chapter.2}
+\contentsline {section}{\numberline {1}Introduction}{12}{section.2.1}
+\contentsline {section}{\numberline {2}R\IeC {\'e}cup\IeC {\'e}ration du flux de donn\IeC {\'e}es de la KINECT}{13}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Initialisation}{13}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Traitement }{13}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.3}Affichage relatif \IeC {\`a} la profondeur}{14}{subsection.2.2.3}
+\contentsline {section}{\numberline {3}D\IeC {\'e}tection de l'outil d'\IeC {\'e}criture}{14}{section.2.3}
+\contentsline {section}{\numberline {4}Calibrage du support d'\IeC {\'e}criture}{16}{section.2.4}
+\contentsline {subsection}{\numberline {4.1}\IeC {\'E}mulation de l'\IeC {\'e}criture}{16}{subsection.2.4.1}
+\contentsline {section}{\numberline {5}Pr\IeC {\'e}cision de l'\IeC {\'e}criture: O\IeC {\`u} est la bille du stylo sur l'image de profondeurs}{18}{section.2.5}
+\contentsline {subsection}{\numberline {5.1}Am\IeC {\'e}lioration de la d\IeC {\'e}tection de la bille}{19}{subsection.2.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Pixel plus bas}{19}{subsubsection.2.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Pixel Barycentre}{19}{subsubsection.2.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Nombre de frames}{19}{subsubsection.2.5.1.3}
+\contentsline {subsubsection}{\numberline {5.1.4}Position moyenne sur un nombre de frames}{20}{subsubsection.2.5.1.4}
+\contentsline {section}{\numberline {6}Arr\IeC {\^e}t et effa\IeC {\c c}age de l'\IeC {\'e}criture}{20}{section.2.6}
+\contentsline {section}{\numberline {7}Conclusion}{20}{section.2.7}
+\contentsline {chapter}{\numberline {3}Exp\IeC {\'e}rimentation et R\IeC {\'e}sultats}{21}{chapter.3}
+\contentsline {section}{\numberline {1}Introduction}{21}{section.3.1}
+\contentsline {section}{\numberline {2}Environnement de d\IeC {\'e}veloppement}{21}{section.3.2}
+\contentsline {subsection}{\numberline {2.1}Configuration mat\IeC {\'e}rielle et logicielle}{21}{subsection.3.2.1}
+\contentsline {section}{\numberline {3}Sc\IeC {\'e}nario d'ex\IeC {\'e}cution}{21}{section.3.3}
+\contentsline {section}{\numberline {4}Tests et r\IeC {\'e}sultats}{25}{section.3.4}
+\contentsline {subsection}{\numberline {4.1}Jointure des pixels "bille" par des segments de droites (avec le pixel le plus proche)}{26}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {4.2}Variation du nombres de frames}{26}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {4.3}Consid\IeC {\'e}ration du barycentre combin\IeC {\'e} \IeC {\`a} la moyenne de positions de la "bille" dans les frames}{27}{subsection.3.4.3}
+\contentsline {section}{\numberline {5}Effa\IeC {\c c}age}{28}{section.3.5}
+\contentsline {section}{\numberline {6}Discussion et travaux futurs}{28}{section.3.6}
+\contentsline {section}{\numberline {7}Conclusion}{29}{section.3.7}
+\contentsline {chapter}{Conclusion g\IeC {\'e}n\IeC {\'e}rale}{30}{chapter*.37}

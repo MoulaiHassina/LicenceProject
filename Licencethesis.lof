@@ -1,0 +1,36 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Nuage de points repr\IeC {\'e}sentant les classes d\IeC {\textquoteright }objets selon leurs caract\IeC {\'e}ristiques. A gauche les classes sont sans ambigu\IeC {\"\i }t\IeC {\'e}, \IeC {\`a} droite les classes sont plus difficile \IeC {\`a} isoler.\relax }}{4}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Sch\IeC {\'e}ma illustratif des composants de la Kinect \leavevmode {\color [rgb]{1.00,0.00,0.00}[11]} \relax }}{6}{figure.caption.7}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Sch\IeC {\'e}ma explicatif du fonctionnement du capteur de profondeur \leavevmode {\color [rgb]{1.00,0.00,0.00}[11]} \relax }}{6}{figure.caption.8}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces \IeC {\'E}mulateur d'un tableau de face \leavevmode {\color [rgb]{1.00,0.00,0.00}[8]}\relax }}{8}{figure.caption.9}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Le mur tactile\relax }}{10}{figure.caption.10}
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Mouvement du visage \relax }}{11}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Schema explicatif du d\IeC {\'e}roulement de l'application\relax }}{12}{figure.caption.12}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Illustration du d\IeC {\'e}calage \leavevmode {\color [rgb]{1.00,0.00,0.00}[13]}\relax }}{13}{figure.caption.13}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Sch\IeC {\'e}ma explicatif de la d\IeC {\'e}tection d'ojbet \relax }}{14}{figure.caption.14}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Image profondeur monochrome\relax }}{15}{figure.caption.15}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Image profondeur avec Coloriage d'un objet\relax }}{15}{figure.caption.16}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces L'intervalle choisi pour le coloriage de l'outil\relax }}{15}{figure.caption.17}
+\contentsline {figure}{\numberline {2.7}{\ignorespaces Processus r\IeC {\'e}sumant le Calibrage du support et calcul des coordonn\IeC {\'e}es r\IeC {\'e}elles\relax }}{16}{figure.caption.18}
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Image de profondeurs \IeC {\`a} 1000mm (\IeC {\`a} gauche) et \IeC {\`a} 1470mm (\IeC {\`a} droite) pour une zone de 50cm\relax }}{17}{figure.caption.19}
+\contentsline {figure}{\numberline {2.9}{\ignorespaces D\IeC {\'e}placement en lignes sur le tableau\relax }}{17}{figure.caption.20}
+\contentsline {figure}{\numberline {2.10}{\ignorespaces D\IeC {\'e}placement en lignes sur le tableau\relax }}{18}{figure.caption.21}
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Etapes essentielles pour la transcription de coordonn\IeC {\'e}es\relax }}{18}{figure.caption.22}
+\contentsline {figure}{\numberline {2.12}{\ignorespaces R\IeC {\'e}sultat du tra\IeC {\c c}age de deux droites parall\IeC {\`e}le horizontales et inclin\IeC {\'e}es\relax }}{19}{figure.caption.23}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Introduction des dimensions du support\relax }}{22}{figure.caption.24}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Introduction des dimensions du support\relax }}{23}{figure.caption.25}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Calibrage du premier point\relax }}{23}{figure.caption.26}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Calibrage du second point\relax }}{24}{figure.caption.27}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Calibrage du troisi\IeC {\`e}me point\relax }}{24}{figure.caption.28}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Calibrage du quatri\IeC {\`e}me point\relax }}{24}{figure.caption.29}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces D\IeC {\'e}but du dessin\relax }}{25}{figure.caption.30}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces La Plateforme d'exp\IeC {\'e}rimentation\relax }}{25}{figure.caption.31}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces \IeC {\'E}criture sans utilisation des droites.\relax }}{26}{figure.caption.32}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \IeC {\'E}criture avec utilisation des droites.\relax }}{26}{figure.caption.32}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces \IeC {\'E}criture avec 15 frames.\relax }}{26}{figure.caption.33}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \IeC {\'E}criture avec 10 frames.\relax }}{26}{figure.caption.33}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces \IeC {\'e}criture en noire avec moyenne des frames sur 15frames/secondes\relax }}{27}{figure.caption.34}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces \IeC {\'e}criture color\IeC {\'e} de 15frames/seconde\relax }}{27}{figure.caption.35}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Application de l'option effa\IeC {\c c}age sur une \IeC {\'e}criture\relax }}{28}{figure.caption.36}
